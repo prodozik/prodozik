@@ -1,4 +1,5 @@
-### Hi there 👋
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mhaggard)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
 **prodozik/prodozik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
