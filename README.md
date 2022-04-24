@@ -1,4 +1,4 @@
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mhaggard)
+[![mhaggard's 42 stats](https://badge42.vercel.app/api/v2/cl2dh09hb006309l0l1krm7yi/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
